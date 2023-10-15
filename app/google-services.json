@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "51958858655",
+    "firebase_url": "https://q-eatery-7-default-rtdb.firebaseio.com",
+    "project_id": "q-eatery-7",
+    "storage_bucket": "q-eatery-7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:51958858655:android:2259cd146f2068571a33aa",
+        "android_client_info": {
+          "package_name": "com.example.qeatery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "51958858655-e566pem21tbgcgav5k2g4g7l81p0roht.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDb29MIV9qoElTONIB6DoJCIFu_nBiM6Nc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "51958858655-e566pem21tbgcgav5k2g4g7l81p0roht.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
